@@ -25,13 +25,13 @@ app_links:
     namespace: google
     type: android
 title: Jesus Christ (@officialsonofman) * Instagram photos and videos
-datePublished: '2017-12-14T23:46:54.193Z'
-dateModified: '2017-12-14T23:46:52.585Z'
+datePublished: '2017-12-15T01:49:43.035Z'
+dateModified: '2017-12-15T01:49:42.136Z'
 description: ''
 via:
   name: Feed
   url: 'https://instagram.com/officialsonofman'
-inFeed: false
+inFeed: true
 sourcePath: _posts/2017-12-14-jesus-christ-officialsonofman-instagram-photos-and-vide.md
 hasPage: true
 starred: false

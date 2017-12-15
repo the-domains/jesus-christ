@@ -33,9 +33,6 @@ navigation:
   - name: SoundCloud
     url: 'https://soundcloud.com/officialsonofman'
     type: external
-  - name: Writing
-    id: 1eb13e2d-6ff8-4c8a-810f-8ad6840a8aa4
-    type: content
   - name: Biography
     id: 10872fbc-182c-46ab-a53a-405b2807e20d
     type: content

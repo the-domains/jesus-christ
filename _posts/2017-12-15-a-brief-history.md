@@ -5,8 +5,8 @@ description: >-
   He began is musical career nearly 10 years ago and has achieved great exposure
   and a humbling success over the years internationally and domestically within
   the Americas.
-dateModified: '2017-12-15T03:38:25.237Z'
-datePublished: '2017-12-15T03:38:25.784Z'
+dateModified: '2017-12-15T03:38:40.288Z'
+datePublished: '2017-12-15T03:38:40.884Z'
 title: A Brief History
 author: []
 publisher: {}

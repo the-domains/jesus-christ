@@ -30,6 +30,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: SoundCloud
+    url: 'https://soundcloud.com/officialsonofman'
+    type: external
   - name: Writing
     id: 1eb13e2d-6ff8-4c8a-810f-8ad6840a8aa4
     type: content
@@ -38,9 +41,6 @@ navigation:
     type: content
   - name: Shop
     url: 'https://6ixyclothingco.com/shop'
-    type: external
-  - name: SoundCloud
-    url: 'https://soundcloud.com/officialsonofman'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19ea6be-ad65-496f-bb7e-f9bf466b0a7f.png

@@ -20,8 +20,8 @@ description: >-
   create and say. Though it is early in the brighter days of his musical career,
   a promising and flourishing future is in store for this courageous man. “He
   Who Hath An Ear, Hear”.
-dateModified: '2017-12-15T01:51:49.039Z'
-datePublished: '2017-12-15T01:51:49.835Z'
+dateModified: '2017-12-15T02:00:21.193Z'
+datePublished: '2017-12-15T02:00:21.689Z'
 title: “What Made The Face of The Lion?”
 author: []
 publisher: {}

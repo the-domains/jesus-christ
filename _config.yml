@@ -10,7 +10,17 @@ color:
   lightness: 0.5896217748930327
   saturation: 0.354286613997699
   rhythmicContrast: 0.12577098519384566
+github: true
 layout_spectrum: 0.6233167119709646
+analytics:
+  google: UA-111277687-1
+  facebook: '689052707899684'
+author:
+  name: Ben-Adam Michael
+  email: jhenesus@gmail.com
+  url: 'http://ultra-jesus.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/966c2c3d-0f27-4150-96a3-1c5a4227356c.png
 name: Jesus Christ
 colors:
   brandColors:
@@ -29,6 +39,11 @@ navigation:
   - name: Shop
     url: 'https://6ixyclothingco.com/shop'
     type: external
+  - name: Music
+    id: 00e73a50-40ae-4888-8597-eb9f88fae001
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19ea6be-ad65-496f-bb7e-f9bf466b0a7f.png
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -116,15 +131,3 @@ purpose:
   - type: external
     url: 'http://smarturl.it/1soul2fish-dl'
     label: Download The Entire Demo
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/966c2c3d-0f27-4150-96a3-1c5a4227356c.png
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19ea6be-ad65-496f-bb7e-f9bf466b0a7f.png
-author:
-  name: Ben-Adam Michael
-  email: jhenesus@gmail.com
-  url: 'http://ultra-jesus.com'
-analytics:
-  google: UA-111277687-1
-  facebook: '689052707899684'
-github: true

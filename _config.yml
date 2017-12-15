@@ -39,9 +39,6 @@ navigation:
   - name: The Omega Point
     url: 'http://smarturl.it/THEOMEGAPOINT'
     type: external
-  - name: Biography
-    id: 10872fbc-182c-46ab-a53a-405b2807e20d
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19ea6be-ad65-496f-bb7e-f9bf466b0a7f.png
 title: ''

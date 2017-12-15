@@ -20,8 +20,8 @@ description: >-
   geometric doodles.
 app_links: []
 title: The Omega Point
-datePublished: '2017-12-15T01:53:12.041Z'
-dateModified: '2017-12-15T01:53:09.514Z'
+datePublished: '2017-12-15T02:00:21.687Z'
+dateModified: '2017-12-15T02:00:21.193Z'
 via: {}
 inFeed: false
 sourcePath: _posts/2017-12-14-the-omega-point.md

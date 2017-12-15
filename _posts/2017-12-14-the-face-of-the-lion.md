@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   Musician, Entrepreneur, Counselor, Brother, Son, Friend & Father. Jesus
   Christ, also known as "Ben-Adam Michael" is a R&B Soul and Reggae fusion
@@ -20,8 +20,8 @@ description: >-
   create and say. Though it is early in the brighter days of his musical career,
   a promising and flourishing future is in store for this courageous man. “He
   Who Hath An Ear, Hear”.
-dateModified: '2017-12-15T01:47:21.747Z'
-datePublished: '2017-12-15T01:47:22.583Z'
+dateModified: '2017-12-15T01:49:21.293Z'
+datePublished: '2017-12-15T01:49:21.942Z'
 title: “What Made The Face of The Lion?”
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-12-14T07:47:45.611Z'
 url: the-face-of-the-lion/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![If only you knew the darkest place you could be that I have been, only then you'd understand.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c00930bb-cee2-4822-ad85-91630a5021a5.jpg)

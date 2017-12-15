@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   "Jesus Christ" is also known as Ben-Adam Michael, born Richard Daniel Brown.
   He began is musical career nearly 10 years ago and has achieved great exposure
   and a humbling success over the years internationally and domestically within
   the Americas.
-dateModified: '2017-12-15T03:36:09.284Z'
-datePublished: '2017-12-15T03:36:12.118Z'
+dateModified: '2017-12-15T03:36:21.206Z'
+datePublished: '2017-12-15T03:36:22.121Z'
 title: A Brief History
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-12-15T03:34:15.819Z'
 url: a-brief-history/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![If only you knew the darkest place you could be that I have been, only then you'd understand.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c00930bb-cee2-4822-ad85-91630a5021a5.jpg)

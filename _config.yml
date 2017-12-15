@@ -119,7 +119,6 @@ purpose:
   - type: external
     url: 'http://smarturl.it/1soul2fish-dl'
     label: Download The Entire Demo
-github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/966c2c3d-0f27-4150-96a3-1c5a4227356c.png
 favicon: >-
@@ -131,3 +130,4 @@ author:
 analytics:
   google: UA-111277687-1
   facebook: '689052707899684'
+github: true

@@ -59,10 +59,10 @@ app_links:
     namespace: google
     type: ios
 title: To Die & Love (Falling Stars)(LIVE EFFECT) by Jesus Christ
-datePublished: '2017-12-15T01:47:37.060Z'
-dateModified: '2017-12-15T01:47:35.988Z'
+datePublished: '2017-12-15T01:49:28.580Z'
+dateModified: '2017-12-15T01:49:27.795Z'
 via: {}
-inFeed: false
+inFeed: true
 sourcePath: _posts/2017-12-14-to-die-and-love-falling-starslive-effect-by-jesus-christ.md
 hasPage: true
 starred: false

@@ -39,6 +39,9 @@ navigation:
   - name: Shop
     url: 'https://6ixyclothingco.com/shop'
     type: external
+  - name: The Omega Point
+    url: 'http://smarturl.it/THEOMEGAPOINT'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19ea6be-ad65-496f-bb7e-f9bf466b0a7f.png
 title: ''

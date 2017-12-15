@@ -30,6 +30,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Music
+    id: 00e73a50-40ae-4888-8597-eb9f88fae001
+    type: content
   - name: Biography
     id: 10872fbc-182c-46ab-a53a-405b2807e20d
     type: content
@@ -38,9 +41,6 @@ navigation:
     type: external
   - name: Writing
     id: 1eb13e2d-6ff8-4c8a-810f-8ad6840a8aa4
-    type: content
-  - name: Music
-    id: 00e73a50-40ae-4888-8597-eb9f88fae001
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19ea6be-ad65-496f-bb7e-f9bf466b0a7f.png

@@ -83,7 +83,6 @@ content:
         Official Website: https://ultra-jesus.com Donate to boost my career as
         an artist: https://smarturl.it/DONATEFORCHANGE Download my latest demo
         "1 Soul 2 Fish" for FREE: smarturl.it/1Soul2Fish-DL
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=Hp0x-QbNXYw&feature=applinks'

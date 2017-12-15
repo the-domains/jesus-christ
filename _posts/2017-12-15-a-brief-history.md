@@ -6,7 +6,7 @@ description: >-
   and a humbling success over the years internationally and domestically within
   the Americas.
 dateModified: '2017-12-15T03:39:40.180Z'
-datePublished: '2017-12-15T03:39:40.459Z'
+datePublished: '2017-12-15T03:39:40.633Z'
 title: A Brief History
 author: []
 publisher: {}

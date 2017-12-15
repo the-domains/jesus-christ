@@ -33,9 +33,6 @@ navigation:
   - name: SoundCloud
     url: 'https://soundcloud.com/officialsonofman'
     type: external
-  - name: Biography
-    id: 10872fbc-182c-46ab-a53a-405b2807e20d
-    type: content
   - name: Shop
     url: 'https://6ixyclothingco.com/shop'
     type: external

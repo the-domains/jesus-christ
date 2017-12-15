@@ -1,28 +1,13 @@
 ---
 inFeed: false
 description: >-
-  Musician, Entrepreneur, Counselor, Brother, Son, Friend & Father. Jesus
-  Christ, also known as "Ben-Adam Michael" is a R&B Soul and Reggae fusion
-  Greater Toronto Area based artist within Canada. The facets of this
-  individuals music solely bases it self by providing listeners with a complete
-  uplifting, spiritual and an array of numerous otherworldly emotions. "When I
-  listened to your music, I felt something" is along the lines Jesus hears from
-  many older and newer listeners who discover his crafts in the online world as
-  well as his performances. It doesn't stop there, J.C has had quite the run
-  around in life as if it were a ride. From experiences of sacrificing his mind,
-  body and soul to an unknown force, visiting hell for 3 days, waking up in an
-  unknown sanctuary within the limbo of his mind for a time you don't want to
-  know, to taking on the Illuminati head on to gain quite the control, finding
-  enlightenment, working closely with a governmental authority figure,
-  collaborating with Hollywood personalities, machinations on his creative ideas
-  there within, a false bride, to saving a damsel in distress--the list goes on.
-  This almost 30 year old king of who knows what has a lot to share, sing,
-  create and say. Though it is early in the brighter days of his musical career,
-  a promising and flourishing future is in store for this courageous man. “He
-  Who Hath An Ear, Hear”.
-dateModified: '2017-12-15T02:41:12.296Z'
-datePublished: '2017-12-15T02:41:13.115Z'
-title: “What Made The Face of The Lion?”
+  "Jesus Christ" is also known as Ben-Adam Michael, born Richard Brown.  He
+  began is musical career nearly 10 years ago and has achieved great exposure
+  and a humbling success over the years internationally and domestically within
+  the Americas.
+dateModified: '2017-12-15T02:54:21.102Z'
+datePublished: '2017-12-15T02:54:21.975Z'
+title: Brief History
 author: []
 publisher: {}
 via: {}
@@ -36,9 +21,13 @@ _type: Blurb
 ---
 ![If only you knew the darkest place you could be that I have been, only then you'd understand.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c00930bb-cee2-4822-ad85-91630a5021a5.jpg)
 
-## **"What Made The Face of The Lion?"**
+## **Brief History**
 
-Musician, Entrepreneur, Counselor, Brother, Son, Friend & Father. Jesus Christ, also known as "Ben-Adam Michael" is a R&B Soul and Reggae fusion Greater Toronto Area based artist within Canada. The facets of this individuals music solely bases it self by providing listeners with a complete uplifting, spiritual and an array of numerous otherworldly emotions. "When I listened to your music, I felt something" is along the lines Jesus hears from many older and newer listeners who discover his crafts in the online world as well as his performances. It doesn't stop there, J.C has had quite the run around in life as if it were a ride. From experiences of sacrificing his mind, body and soul to an unknown force, visiting hell for 3 days, waking up in an unknown sanctuary within the limbo of his mind for a time you don't want to know, to taking on the Illuminati head on to gain quite the control, finding enlightenment, working closely with a governmental authority figure, collaborating with Hollywood personalities, machinations on his creative ideas there within, a false bride, to saving a damsel in distress--the list goes on. This almost 30 year old king of who knows what has a lot to share, sing, create and say. Though it is early in the brighter days of his musical career, a promising and flourishing future is in store for this courageous man. "He Who Hath An Ear, Hear".
+"Jesus Christ" is also known as Ben-Adam Michael, born Richard Brown. He began is musical career nearly 10 years ago and has achieved great exposure and a humbling success over the years internationally and domestically within the Americas.
+
+He released his first album in Seven in 2014 and has since released several going into current date. With several rebrand strategies, the older albums have been removed from online stores in order to refine the vision. To date, 1 Soul 2 Fish is Jesus' current mixtape available for download as a movement to keep updating and upgrading it. "I call it my Infinite Album", in the words of Richard.
+
+Jesus Christ is now currently working on several projects within the creative and business industry, he has since released a clothing line under 6IXY CO. and a novella The Omega Point. His latest work is compiling a new extended-play album that is currently untitled.
 
 Well, what are you waiting for? Click below to hear him sing!
 [Listen Now!][0]

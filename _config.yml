@@ -128,3 +128,6 @@ purpose:
   - type: external
     url: 'https://soundcloud.com/officialsonofman/infinite-sunshine'
     label: Listen to "Infinite Sunshine"
+  - type: contact
+    url: 'mailto:archthemic@gmail.com'
+    label: Contact me

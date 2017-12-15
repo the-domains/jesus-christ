@@ -4,9 +4,9 @@
         <description><![CDATA[Jesus Christ]]></description>
         <link>http://ultra-jesus.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Dec 2017 00:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2017 00:20:48 GMT</lastBuildDate>
         <atom:link href="http://ultra-jesus.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 Dec 2017 00:17:15 GMT</pubDate>
+        <pubDate>Fri, 15 Dec 2017 00:20:47 GMT</pubDate>
         <item>
             <title><![CDATA[To Die & Love (Falling Stars)(LIVE EFFECT) by Jesus Christ]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F369261065%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fj-c-official%2Fdieandlove&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000269474060-wtvgv3-t500x500.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -34,99 +34,6 @@
             <link>http://ultra-jesus.com/the-omega-point/index.html</link>
             <guid isPermaLink="false">1eb13e2d-6ff8-4c8a-810f-8ad6840a8aa4</guid>
             <pubDate>Thu, 14 Dec 2017 07:59:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<pre><code>@font-face {
-    font-family: &apos;si&apos;;
-    src: url(&apos;PATH_TO/socicon.eot&apos;);
-    src: url(&apos;PATH_TO/socicon.eot?#iefix&apos;) format(&apos;embedded-opentype&apos;),
-         url(&apos;PATH_TO/socicon.woff&apos;) format(&apos;woff&apos;),
-         url(&apos;PATH_TO/socicon.ttf&apos;) format(&apos;truetype&apos;),
-         url(&apos;PATH_TO/socicon.svg#icomoonregular&apos;) format(&apos;svg&apos;);
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-    @font-face {
-        font-family:si;
-        src: url(PATH_TO/socicon.svg) format(svg);
-    }
-}
-
-.soc {
-    overflow:hidden;
-    margin:0; padding:0;
-    list-style:none;
-}
-
-.soc li {
-    display:inline-block;
-    *display:inline;
-    zoom:1;
-}
-
-.soc li a {
-    font-family:si!important;
-    font-style:normal;
-    font-weight:400;
-    -webkit-font-smoothing:antialiased;
-    -moz-osx-font-smoothing:grayscale;
-    -webkit-box-sizing:border-box;
-    -moz-box-sizing:border-box;
-    -ms-box-sizing:border-box;
-    -o-box-sizing:border-box;
-    box-sizing:border-box;
-
-    -o-transition:.1s;
-    -ms-transition:.1s;
-    -moz-transition:.1s;
-    -webkit-transition:.1s;
-    transition:.1s;
-    -webkit-transition-property: transform;
-    transition-property: transform;
-    -webkit-transform: translateZ(0);
-    transform: translateZ(0);
-
-    overflow:hidden;
-    text-decoration:none;
-    text-align:center;
-    display:block;
-    position: relative;
-    z-index: 1;
-    width: 57px;
-    height: 57px;
-    line-height: 57px;
-    font-size: 31px;
-    -webkit-border-radius: 22px;
-    -moz-border-radius: 22px;
-    border-radius: 22px;
-    margin-right: 10px;
-    color: #ffffff;
-    background-color: #d2ecf2;
-}
-
-.soc-icon-last{
-    margin:0 !important;
-}
-
-.soc-twitter:before {
-    content:&apos;\e040&apos;;
-}
-.soc-facebook:before {
-    content:&apos;\e041&apos;;
-}
-.soc-instagram:before {
-    content:&apos;\e057&apos;;
-}
-.soc-spotify:before {
-    content:&apos;\e04e&apos;;
-}</code></pre>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJylzDEKwzAMBdC9pzDuHHIBxXdRjVWLOFaxZEpuX9OhBELpUMFf9PkPenGxoOriVaIPFzcOCgfAw3-yJ5ul5l1uiRZ_FSKOjGVPmjtmH2DGkbH7AhDGdBNZT4JKFdqw_ia4quG94faHoQ8xpt29vSh1GpV9vOMe5l7CC7AnW9E" height="244"></iframe>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJylzDEKwzAMBdC9pzDuHHIBxXdRjVWLOFaxZEpuX9OhBELpUMFf9PkPenGxoOriVaIPFzcOCgfAw3-yJ5ul5l1uiRZ_FSKOjGVPmjtmH2DGkbH7AhDGdBNZT4JKFdqw_ia4quG94faHoQ8xpt29vSh1GpV9vOMe5l7CC7AnW9E</link>
-            <guid isPermaLink="false">77748c01-7f0b-433f-ba4c-f56b6306957f</guid>
-            <pubDate>Fri, 15 Dec 2017 00:16:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

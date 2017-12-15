@@ -65,13 +65,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/U0jH12Rbjlg'
 title: Jesus Christ - Ancient Waves
-datePublished: '2017-12-15T01:45:22.137Z'
-dateModified: '2017-12-15T01:45:10.808Z'
-datePublishedOriginal: '2017-12-15T01:45:22.137Z'
+datePublished: '2017-12-15T02:00:21.689Z'
+dateModified: '2017-12-15T02:00:21.193Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-12-15-jesus-christ-ancient-waves.md
+starred: false
+datePublishedOriginal: '2017-12-15T01:45:22.137Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

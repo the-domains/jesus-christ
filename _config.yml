@@ -30,9 +30,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Music
-    id: 00e73a50-40ae-4888-8597-eb9f88fae001
-    type: content
   - name: Writing
     id: 1eb13e2d-6ff8-4c8a-810f-8ad6840a8aa4
     type: content
